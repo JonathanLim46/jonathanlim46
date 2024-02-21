@@ -3,11 +3,12 @@ A student of Software Engineering Technology at IPB University, class of 2023.
 
 > 🌹 **About Me**
 
+👩🏻‍🎓 Studied Software Engineering at IPB University, Indonesia
+
 👩‍💻 I'm currently working on studies in the backend space and is developing skills through various projects on campus or privately.
 
 🧠 I'm currently learning how databases work and code development for the backend.
 
-👩🏻‍🎓 Studied Software Engineering at IPB University, Indonesia
 
 
 > 🔗 **Others**
