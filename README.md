@@ -1,7 +1,7 @@
 # Hi, I'm Jonathan Lim! 👋
 A student of Software Engineering Technology at IPB University, class of 2023.
 
-> **About Me**
+> 🌹 **About Me**
 
 👩‍💻 I'm currently working on studies in the backend space and is developing skills through various projects on campus or privately.
 
