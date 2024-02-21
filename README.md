@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi, I'm Jonathan Lim! 👋
+A student of Software Engineering Technology at IPB University, class of 2023.
 
-<!--
-**JonathanLim46/jonathanlim46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **About Me**
+👩‍💻 I'm currently working on studies in the backend space and is developing skills through various projects on campus or privately.
 
-Here are some ideas to get you started:
+🧠 I'm currently learning how databases work and code development for the backend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩🏻‍🎓 Studied Software Engineering at IPB University, Indonesia
+
+
+> 🔗 **Others**
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathanlims/)
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.notion.so/Jonathan-Docs-61e9c64595d246cdba58d80bddd4e194?pvs=4)
+
+
+
+
