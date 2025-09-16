@@ -28,7 +28,7 @@ A student of Software Engineering Technology at IPB University, class of 2023.
 > 🔗 **Others**
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathanlims/)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.notion.so/Jonathan-Docs-61e9c64595d246cdba58d80bddd4e194?pvs=4)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://www.jonathanlim.my.id/)
 
 
 
